@@ -1,7 +1,7 @@
 <h3>Tabuada</h3>
 <hr> 
 Desafio de exibir a tabuada de acordo com a solicitação do usuário, entre 1 a 10.
-<br>
+<br><br>
 
 🚀 Sobre este Desafio
 
