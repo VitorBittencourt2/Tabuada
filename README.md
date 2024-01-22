@@ -10,8 +10,8 @@ Foi feito em JavaScript, pelo p5 (https://editor.p5js.org)
 
 💻 Condições do desafio:
 
-Usuário não pode inserir números maior que 10. 
-Só pode ser informado números inteiros.
+Usuário não pode inserir números maior que 10. <br>
+Só pode ser informado números inteiros.<br>
 Usuário não pode inserir números menores ou igual a 0. 
 
 
