@@ -5,7 +5,7 @@ Desafio de exibir a tabuada de acordo com a solicitação do usuário, entre 1 a
 
 🚀 Sobre este Desafio
 
-O Desafio faz parte da iniciativa ClearTech da ClearSale.
+O Desafio faz parte da iniciativa ClearTech da ClearSale.<br>
 Foi feito em JavaScript, pelo p5 (https://editor.p5js.org) 
 
 💻 Condições do desafio:
